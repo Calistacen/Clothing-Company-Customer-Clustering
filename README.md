@@ -35,7 +35,5 @@ In clustering, feature importance is defined by the variables that contribute mo
 - The analysis provides a data-driven structure for developing a Customer Relationship Management (CRM) program with recommendation for each cluster 
 
 
-### License
-This project is for educational purposes only.
-
-by Calista.L
+###### This project is for educational purposes only.
+###### by Calista.L
